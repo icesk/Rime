@@ -41,3 +41,10 @@ patch:
       border_width: 0                         # 窗口边界宽度，大于圆角半径才生效
 
   "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
+  "app_options/com.jetbrains.intellij/ascii_mode": true
+  "app_options/com.jetbrains.datagrip/ascii_mode": true
+  "app_options/com.jetbrains.WebStorm/ascii_mode": true
+  "app_options/org.eclipse.platform.ide/ascii_mode": true
+  "app_options/org.springsource.sts.ide/ascii_mode": true
+  "app_options/com.google.android.studio/ascii_mode": true
+  "app_options/com.sequelpro.SequelPro/ascii_mode": true
