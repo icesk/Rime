@@ -74,6 +74,7 @@ Cortana	cortana
 CPU	cpu
 Curio	curio
 Cydia	cydia
+CentOS	centos
 Devanagari	devanagari
 DFU	dfu
 DHCP	dhcp
@@ -88,8 +89,8 @@ Due	due
 DVD	dvd
 DVI	dvi
 EarPods	earpods
-EdgePoint	edge	point
-EdgeSwitch	edge	switch
+EdgePoint	edge point
+EdgeSwitch	edge switch
 eDRAM	edram
 EDXOR	edxor
 Emacs	emacs
@@ -360,6 +361,7 @@ Airmail	air mail
 airMAX	air max
 AirPlay	air play
 AirPods	air pods
+AirPods Pro	air pods
 AirPort	air port
 AirPort Express	air port
 AirPort Extreme	air port
@@ -587,6 +589,7 @@ Intellij IDEA	intellij idea
 Internet Explorer	internet explorer
 intoLive	into live
 iOS	ios
+Ion-X	ionx
 iMac	imac
 iMac Pro	imac
 IP 地址	ip di zhi
@@ -596,6 +599,7 @@ iPad	ipad
 iPad Air	ipad
 iPad mini	ipad
 iPad Pro	ipad
+iPadOS	ipad
 iPhone	iphone
 iPhone X	iphone ten
 iPod	ipod
@@ -660,6 +664,7 @@ MacBook Pro	macbook
 macOS	macos
 macOS Mojave	macos
 macOS High Sierra	macos
+macOS Catalina	macos
 MacTips	mac tips
 Mactracker	mac tracker
 Mad Catz	mad catz
@@ -730,6 +735,8 @@ OneNote	one note
 OOP	oop
 OpenVPN	open vpn
 Oracle Database	oracle database
+LTPO OLED	oled
+OLED	oled
 OS X	osx
 OS X Server	osx
 OS X Server	osx server
@@ -900,7 +907,7 @@ True Tone	true tone
 Tupac	tupac
 Turbo Boost	turbo boost
 Tuxera Disk Manager	tuxera
-tvOS	tv os
+tvOS	tvos
 Tweetbot	tweet bot
 Twist Plus	twist plus
 Ubuntu	ubuntu
@@ -972,7 +979,6 @@ Zhihu	zhi hu
 β 射線	bei ta she xian
 γ 刀	ga ma dao
 γ 射線	ga ma she xian
-	apple
  MUSIC	apple music
  PAY	apple pay
  tv 4K	apple tv
