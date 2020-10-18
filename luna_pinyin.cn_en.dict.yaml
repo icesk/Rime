@@ -33,6 +33,7 @@ Android	android
 Annotable	annotable
 AnyConnect	anyconnect
 AnyDrop	anydrop
+App Clips	app clips
 AOL	aol
 APFS	apfs
 APFS	ge shi hua
@@ -125,7 +126,8 @@ GPU	gpu
 Graffle	graffle
 GRE	gre
 GSM	gsm
-GUI	gui
+GaN	g an
+GUI	g u i
 Gujarati	gujarati
 Gurmukhi	gurmukhi
 Hangouts	hangouts
@@ -303,7 +305,7 @@ Trello	trello
 TRUE	true
 TTL	ttl
 Tumblr	tumblr
-TUN	tun
+TUN	t u n
 Twitter	twitter
 Typora	typora
 UAP	uap
@@ -325,7 +327,6 @@ VLC	vlc
 VMware	vmware
 VoLTE	volte
 VPN	vpn
-VR	vr
 Waltr	waltr
 Waseem	waseem
 WCDMA	wcdma
@@ -443,7 +444,6 @@ Chrome	chrome
 Chalkduster	chalk duster
 CheatSheet	cheat sheet
 ChemBioDraw	chem bio draw
-CIA	cia
 Cisco IPSec	cisco ipsec
 CloudApp	cloud app
 CloudMagic	cloud magic
@@ -465,7 +465,6 @@ Cornerstone	corner stone
 Courier New	courier new
 Crimson Editor	crimson editor
 CSS	css
-CSS3	css san
 D-Link	dlink
 DailyCost	daily cost
 DaisyDisk	daisy disk
@@ -642,7 +641,7 @@ Kindle Paperwhite	kindle
 Kindle Unlimited	kindle
 Kindle Voyage	kindle
 Klib	klib
-L2TP	lertp
+L2TP	lrtp
 LaTeXian	la te xian
 Launch Center Pro	lcp
 Launchpad	launch pad
@@ -737,7 +736,6 @@ OmniOutliner	omni outliner
 OmniPlan	omni plan
 OneDrive	one drive
 OneNote	one note
-OOP	oop
 OpenVPN	open vpn
 Oracle Database	oracle database
 LTPO OLED	oled
@@ -748,6 +746,7 @@ OS X Server	osx server
 Outlook Express	outlook express
 PaintCode	paint code
 Parallels Desktop	parallels desktop
+Parallels Desktop	pd
 PC-cillin	pc cillin
 Perl	perl
 Photo Booth	photo booth
@@ -946,8 +945,7 @@ Wi-Fi	wi fi
 WiFi	wifi
 WiFi Explorer	wifi explorer
 WiFi Scanner	wifi scanner
-Wikipedia	wiki pedia
-Wikipedia	wikipedia
+Wikipedia	wiki
 Window Tidy	window tidy
 Windows Live Mail	windows live
 Windows Live Mail	windows live mail
@@ -968,7 +966,6 @@ World Wide Web	www
 WPA2	wpa
 WPS Office	wps office
 Writer Pro	writer pro
-WWW	www
 WWYD	wwyd
 X-Ray	xray
 Xbox One	xbox
